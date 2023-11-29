@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### welcome to my profile! 👋
+contact me on Discord (not disabled, inaccessible due to some **changes** with my email)
+<br>
+I'm a ~~young~~ coider (coder) who likes to do crazy shenanigans.
 <!--
 **Orphanlol/Orphanlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
