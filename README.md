@@ -1,5 +1,5 @@
 ### welcome to my profile! 👋
-contact me on Discord (not disabled, inaccessible due to some **changes** with my email)
+hi people
 <br>
 this is real
 <!--
