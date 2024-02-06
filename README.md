@@ -7,7 +7,9 @@
 
 - nothing here
 
-- How to reach me: **no** 
+- How to reach me: **no**
+
+- mojang is DMCAing eagler so much its not even interesting anymore to see them DMCA stuff
 <h3 align="left">Languages and Tools:</h3>
 idek
 
