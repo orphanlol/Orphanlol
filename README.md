@@ -15,4 +15,5 @@ idek
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orphanlol&show_icons=true&theme=dark&locale=en&layout=compact" alt="orphanlol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orphanlol&show_icons=true&locale=en" alt="orphanlol" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orphanlol&show_icons=true&locale=en" alt="orphanlol" /></p><br>
+<img src="https://github.com/orphanlol/Orphanlol/assets/83834491/cc679dc2-5389-446a-b7a4-a9a0017aeca3" alt="achivement get" />
